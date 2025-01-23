@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Forever Learner | Problem Solver;Passionate about everything data;Student at FAST Karachi;Majoring in Artificial Intelligence)](https://git.io/typing-svg)
+<center>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Forever Learner | Problem Solver;Passionate about everything data;Student at FAST Karachi;Majoring in Artificial Intelligence" alt="Typing animation" width="400" height="100" />
+</center>
 <!--
 **AaribVahidy/AaribVahidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
